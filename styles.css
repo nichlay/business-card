@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.profile-img {
+    width: 150px;
+}
+
+.card-div {
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    color: #ffffff;
+    background: #14213d;
+    border-bottom: 6px solid #fca311;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
